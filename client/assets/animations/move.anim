@@ -1,0 +1,33 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "move",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.8166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -59.2,
+            4
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.8166666666666667,
+          "value": [
+            51.9,
+            4
+          ],
+          "motionPath": []
+        }
+      ]
+    }
+  },
+  "events": []
+}

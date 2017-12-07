@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "1503466266329035324",
+    "id": "035324",
+    "time": 1503466267,
+    "seats": [
+      {
+        "userId": 1,
+        "name": "dWdpMQ==",
+        "score": -60
+      },
+      {
+        "userId": 2,
+        "name": "dWdpMg==",
+        "score": 0
+      },
+      {
+        "userId": 4,
+        "name": "dWdpMw==",
+        "score": 60
+      },
+      {
+        "userId": 12,
+        "name": "dWdpNA==",
+        "score": 0
+      },
+      {
+        "userId": 0,
+        "name": "",
+        "score": 0
+      },
+      {
+        "userId": 0,
+        "name": "",
+        "score": 0
+      }
+    ],
+    "details": [
+      {
+        "round": 3,
+        "players": [
+          {
+            "name": "ugi1",
+            "cards": [
+              3,
+              9
+            ],
+            "score": -60,
+            "isZhuang": false
+          },
+          {
+            "name": "ugi2",
+            "cards": [
+              38,
+              37
+            ],
+            "score": 0,
+            "isZhuang": true
+          },
+          {
+            "name": "ugi3",
+            "cards": [
+              30,
+              36
+            ],
+            "score": 60,
+            "isZhuang": false
+          },
+          {
+            "name": "ugi4",
+            "cards": [],
+            "score": 0,
+            "isZhuang": false
+          }
+        ]
+      }
+    ]
+  }
+]
